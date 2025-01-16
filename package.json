@@ -1,0 +1,60 @@
+{
+  "private": true,
+  "homepage": "https://www.adamalston.com/",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "test:coverage": "react-scripts test --coverage --watchAll=false",
+    "eject": "react-scripts eject",
+    "lint": "eslint --cache --fix --max-warnings 0 ./src/",
+    "format": "prettier --cache --write .",
+    "prepare": "husky"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-simple-typewriter": "^5.0.1",
+    "react-tsparticles": "^1.43.1",
+    "styled-components": "^6.1.13"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^19.6.0",
+    "@commitlint/config-conventional": "^19.6.0",
+    "@eslint/js": "^9.16.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.0.1",
+    "@testing-library/user-event": "^14.5.2",
+    "@types/jest": "^29.5.14",
+    "@types/node": "^20.17.9",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "eslint": "^9.16.0",
+    "eslint-plugin-perfectionist": "^4.2.0",
+    "husky": "^9.1.7",
+    "jest-canvas-mock": "^2.5.2",
+    "lint-staged": "^15.2.10",
+    "prettier": "^3.4.1",
+    "react-scripts": "^5.0.1",
+    "sass": "^1.81.0",
+    "stylelint": "^16.11.0",
+    "stylelint-config-prettier-scss": "^1.0.0",
+    "stylelint-config-standard-scss": "^13.1.0",
+    "typescript": "^4.9.5",
+    "typescript-eslint": "^8.17.0"
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "**/*.{js,jsx,ts,tsx}",
+      "!**/index.{js,jsx,ts,tsx}"
+    ],
+    "coveragePathIgnorePatterns": [
+      "/types/"
+    ]
+  },
+  "overrides": {
+    "nth-check": "^2.0.1",
+    "postcss": "^8.4.31",
+    "resolve-url-loader": "^5.0.0"
+  }
+}
