@@ -21,7 +21,7 @@ export const config: Config = {
       display: 'Resume',
       ariaLabel: 'Resume in Google Drive (opens in new window)',
       icon: <Resume />,
-      href: 'https://app.enhancv.com/resume/67886b60f026b52ba3efbd05#mobile-design-menu',
+      href: 'https://drive.google.com/file/d/1HfxrKrkKJzmTlESXYO62sWrPI22rAzZK/view?usp=sharing',
     },
     {
       name: 'email',
