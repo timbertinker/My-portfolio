@@ -1,5 +1,5 @@
 # 
-The [silas.forrest.pro](https://www.silas.forrest.com) website is built using [React](https://react.dev) and hosted on [Netlify](https://www.netlify.com).
+The [silas.forrest.pro](https://www.silas.forrest.pro) website is built using [React](https://react.dev) and hosted on [Netlify](https://www.netlify.com).
 
 This website is designed to be simple and accessible. Dynamic particles create an interactive experience for visitors. The site offers two themes via a toggle: a dark theme (default) and a light theme. The selected theme persists between tabs, windows, and page reloads.
 
@@ -7,7 +7,7 @@ Optimized for mobile devices with screen sizes ranging from 4-inch smartphones t
 
 ## <img alt="Code logo" src="https://git.io/JUnUc" height="18"/> Open source
 
-This website is open source with the hope that others will use the code to create their own websites. I ask that this code be used with attribution, as a significant amount of time was spent on writing and optimizing it. Please give proper credit by linking back to [silas.forrest.pro](https://www.silas.forrest.com). Thank you!
+This website is open source with the hope that others will use the code to create their own websites. I ask that this code be used with attribution, as a significant amount of time was spent on writing and optimizing it. Please give proper credit by linking back to [silas.forrest.pro](https://www.silas.forrest.pro). Thank you!
 
 <details>
   <summary><b>Install and setup</b></summary>
