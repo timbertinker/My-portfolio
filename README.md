@@ -1,8 +1,5 @@
-# <img alt="Atom icon" src="public/icons/favicon.svg" height="24"/> adamalston<span></span>.com &middot; [![CI](https://github.com/adamalston/v2/actions/workflows/ci.yml/badge.svg)](https://github.com/adamalston/v2/actions/workflows/ci.yml) [![Netlify status](https://api.netlify.com/api/v1/badges/332bbd91-59b7-4091-8781-6f41330399b4/deploy-status)](https://app.netlify.com/sites/adamalston/deploys)
-
-The [adamalston.com](https://www.adamalston.com) website is built using [React](https://react.dev) and hosted on [Netlify](https://www.netlify.com).
-
-<img alt="Desktop preview" src="images/desktop.png" float="left" height="370"/> <img alt="Mobile preview" src="images/mobile.png" align="right" height="370"/>
+# 
+The [silas.forrest.pro](https://www.silas.forrest.com) website is built using [React](https://react.dev) and hosted on [Netlify](https://www.netlify.com).
 
 This website is designed to be simple and accessible. Dynamic particles create an interactive experience for visitors. The site offers two themes via a toggle: a dark theme (default) and a light theme. The selected theme persists between tabs, windows, and page reloads.
 
@@ -10,7 +7,7 @@ Optimized for mobile devices with screen sizes ranging from 4-inch smartphones t
 
 ## <img alt="Code logo" src="https://git.io/JUnUc" height="18"/> Open source
 
-This website is open source with the hope that others will use the code to create their own websites. I ask that this code be used with attribution, as a significant amount of time was spent on writing and optimizing it. Please give proper credit by linking back to [adamalston.com](https://www.adamalston.com). Thank you!
+This website is open source with the hope that others will use the code to create their own websites. I ask that this code be used with attribution, as a significant amount of time was spent on writing and optimizing it. Please give proper credit by linking back to [silas.forrest.pro](https://www.silas.forrest.com). Thank you!
 
 <details>
   <summary><b>Install and setup</b></summary>
@@ -35,7 +32,6 @@ The website uses Font Awesome icons for various interactive elements.
 | Dark Mode  | <img alt="Moon" src="https://git.io/JYkZg" height="20"/>     | `far moon`        |
 | Light Mode | <img alt="Sun" src="https://git.io/JYkZF" height="20"/>      | `far sun`         |
 | GitHub     | <img alt="GitHub" src="https://git.io/JYOvL" height="20"/>   | `fab github`      |
-| LinkedIn   | <img alt="LinkedIn" src="https://git.io/JYOex" height="20"/> | `fab linkedin`    |
 | Resume     | <img alt="File" src="https://git.io/JYOeu" height="20"/>     | `fal file-alt`    |
 | Email      | <img alt="Email" src="https://git.io/JYOei" height="20"/>    | `fal paper-plane` |
 
