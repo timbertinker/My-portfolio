@@ -6,7 +6,7 @@ export const config: Config = {
     display: 'Silas Forrest',
   },
   title: {
-    display: 'AI & Full-Stack and Blockchain Engineer',
+    display: 'Full-Stack & Blockchain Engineer',
   },
   buttons: [
     {
