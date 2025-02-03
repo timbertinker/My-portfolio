@@ -28,7 +28,7 @@ export const config: Config = {
       display: 'Telegram',
       ariaLabel: 'Email contact (opens in new window)',
       icon: <Email />,
-      href: 'https://t.me/Silas_Forrest_Dev',
+      href: 'https://t.me/Silas_Forrest',
     },
   ],
 };
