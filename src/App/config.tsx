@@ -14,7 +14,7 @@ export const config: Config = {
       display: 'GitHub',
       ariaLabel: 'GitHub profile (opens in new window)',
       icon: <GitHub />,
-      href: 'https://github.com/seniordevforest/',
+      href: 'https://github.com/timbertinker/',
     },
     {
       name: 'resume',
