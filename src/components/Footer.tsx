@@ -38,7 +38,7 @@ export const Footer = () => {
         <F.Link
           data-v2="creator"
           aria-label="Silas Forrest's personal website (opens in new window)"
-          href="https://www.adamalston.com/"
+          href="https://silasforrest.pro/"
           rel="noopener noreferrer"
           target="_blank"
           $theme={theme}
@@ -51,7 +51,7 @@ export const Footer = () => {
             <F.Link
               data-v2="source"
               aria-label="Source code for this website (opens in new window)"
-              href="https://github.com/adamalston/v2/"
+              href="https://x.com/timbertinker"
               rel="noopener noreferrer"
               target="_blank"
               $theme={theme}

@@ -87,13 +87,13 @@ describe('application tests', () => {
   it('should render creator', () => {
     const element = screen.getByTestId('creator');
 
-    checkContent(element, /^Silas Forrest$/, 'https://www.adamalston.com/');
+    checkContent(element, /^Silas Forrest$/, 'https://silasforrest.pro/');
   });
 
   it('should render link to source code', () => {
     const element = screen.getByTestId('source');
 
-    checkContent(element, /^Source$/, 'https://github.com/adamalston/v2/');
+    checkContent(element, /^Source$/, 'https://x.com/timbertinker');
   });
 
   it('should render GitHub button', () => {
